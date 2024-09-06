@@ -1,0 +1,10 @@
+label{
+    white-space: nowrap;
+}
+.item{
+    background-color:azure;
+}
+.coll{
+    color: #d9bf60;
+    text-decoration-line: underline;
+}

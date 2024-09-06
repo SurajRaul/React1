@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    /* color: red; */
+    margin: 10px;
+}
+.card-img-top{
+    width:250px;
+    height: 200px;
+}
+.space{
+    margin-right: 0.2px;
+}
+.blockquote{
+    text-align: center;
+}
+.n{
+    width: 200px;
+}
+.pagination-wrapper {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    margin: 10px; 
+}

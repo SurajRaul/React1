@@ -1,0 +1,8 @@
+.custom-form{
+    max-width: 600px;
+    background-color: aqua;
+}
+.blur{
+    /* filter: blur(0.5px);  */
+  pointer-events: none; 
+}
